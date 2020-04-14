@@ -1,0 +1,22 @@
+{
+  "name": "vuepress-theme-techface",
+  "version": "1.0.0",
+  "description": "theme-techface for VuePress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiayuxiaoyan/vuepress-theme-techface.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiayuxiaoyan/vuepress-theme-techface/issues"
+  },
+  "homepage": "https://github.com/xiayuxiaoyan/vuepress-theme-techface#readme",
+  "dependencies": {
+    "@vuepress/theme-default": "^1.3.1"
+  }
+}
